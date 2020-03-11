@@ -5,6 +5,9 @@ Flutter gif search app.
 Gifs finder project built in Flutter using the GIPHY website API.
 Don't forget to add your API key in home_page.dart
 
+![Image description](http://gemoob.com/github_images/screen.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
